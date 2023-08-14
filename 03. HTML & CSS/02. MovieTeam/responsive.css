@@ -1,0 +1,30 @@
+@media (width <= 600px)
+{
+    header{
+        background-position: center center;
+        background-size: cover;
+    }
+    header nav{
+        justify-content: center;
+    }
+    header nav ul{
+        display: flex;
+        flex-direction: column;
+    }
+    .team-description-wrapper ul{
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+        justify-content: center;
+        gap: 3em;
+    }
+    .choose-us ul{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5em;
+    }
+    .blog-news ul{
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+    }
+}

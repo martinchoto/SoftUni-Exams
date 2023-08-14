@@ -1,0 +1,192 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=PT+Sans&family=Poppins:wght@100;400&display=swap');
+body{
+    font-family: Inter;
+}
+nav{
+    padding: 1.2em 2em;
+    background-color: rgba(217, 217, 217, 1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1em;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav button{
+    padding: 0.8em;
+    background-color: white;
+    border-radius: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+.introduction{
+    background-image: url(images/background.jpg);
+    background-position: center bottom;
+    background-size: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 0 10em;
+}
+.introduction h1{
+    font-size: 56px;
+    padding-bottom: 1.2em;
+    width: 450px;
+}
+.introduction p {
+    width: 600px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 2em;
+}
+.introduction button{
+    padding: 0.8em 1.2em;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+.introduction button a{
+    color: white;
+    text-decoration: none;
+}
+.resumes ul{
+    padding: 2.9em 2em;
+    list-style: none;
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    text-align: center;
+}
+.resumes h1{
+    color: rgba(255, 124, 76, 1);
+    font-size: 44px;
+    padding-bottom: 0.7em;
+}
+.resumes .resume{
+    padding-bottom: 0.5em;
+    font-size: 28px;
+}
+.resumes .desc{
+    color: rgba(89, 97, 132, 1);
+    font-size: 14px;
+}
+.img-container img{
+    width: 450px;
+}
+.comments{
+    background-color: rgba(217, 217, 217, 1);
+}
+.comments ul{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 33%;
+    padding: 1em;
+    gap: 15px;
+}
+.comment span{
+    font-weight: 400;
+}
+.comments ul li{
+    display: flex;
+    gap: 1.5em;
+}
+.comment h2{
+    padding: 1.2em 0;
+}
+.comment .text{
+    padding: 10px 0;
+}
+.comment a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+.comment .by-whom{
+    padding-top: 1em;
+}
+.comment .text, .comment .by-whom, .comment span{
+    color: rgba(89, 89, 89, 1);
+}
+.pricing-plans{
+    background-color: white;
+}
+.inside{
+    background-color: rgba(245, 245, 245, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 2em;
+    padding: 3em;
+    gap: 3em;
+}
+.inside h1{
+    padding-bottom: 2em;
+}
+.inside ul{
+    list-style: none;
+    display: flex;
+    gap: 1.5em;
+    justify-content: center;
+}
+.inside ul li{
+    width: 350px;
+    text-align: center;
+}
+.first{
+    background-color: rgba(255, 124, 76, 1);
+}
+.second{
+    background-color: black;
+    color: white;
+}
+.first, .second{
+    padding: 1em 0;
+}
+.first p, .second p{
+    padding: 0.5em;
+}
+.price{
+    font-size: 70px;
+    padding: 0.5em 0;
+}
+.first button, .second button{
+    margin-top: 1.5em;
+    padding: 1em;
+    border-radius: 5px;
+    border: none;
+}
+.first button{
+    background-color: black;
+    color: white;
+}
+.second button{
+    background-color: white;
+}
+footer{
+    background-color: rgba(217, 217, 217, 1);
+}
+footer ul{
+    padding: 2em 7em;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+footer li a{
+    text-decoration: none;
+    color: black;
+}
