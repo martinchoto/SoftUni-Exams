@@ -1,0 +1,15 @@
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.exe
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.deps.json
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.runtimeconfig.json
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.dll
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.pdb
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.csproj.AssemblyReference.cache
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfoInputs.cache
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfo.cs
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.csproj.CoreCompileInputs.cache
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.dll
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\refint\01. Apocalypse Preparation.dll
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.pdb
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.genruntimeconfig.cache
+D:\SoftUni-Exams\01. C# Advanced\01. Apocalypse Preparation\obj\Debug\net6.0\ref\01. Apocalypse Preparation.dll
