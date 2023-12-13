@@ -4,7 +4,7 @@ namespace SoftUniKindergarten
 {
     public class Child
     {
-        public Child(string firstName, string lastName, int age, string parentName, string contactNumber) 
+        public Child(string firstName, string lastName, int age, string parentName, string contactNumber)
         {
             FirstName = firstName;
             LastName = lastName;
